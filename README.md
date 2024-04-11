@@ -5,8 +5,8 @@
 - 🤓 Estudando Javascript & React.
 
 <div>
-<img height="180rem" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"/>
-<img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelsonobd&layout=compact&langs_count=16&theme=dark"/>
+<img height="175rem" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"/>
+<img height="175rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelsonobd&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <div style="display: inline_inblock"><br>
 <img align="center" alt="Kelson-html" height="60" width"60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
