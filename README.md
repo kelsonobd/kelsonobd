@@ -1,5 +1,5 @@
 <h2>Bem vindo (a) ao meu Github!</h2>
-<h1>Sou Kelson Oliveira</h1>
+<h1>Sou o Kelson Oliveira</h1>
   
   - 👨🏻‍💻 <b>Desenvolvedor Frontend 
   - 👨‍🎓 Formando de Gestão de Tecnologia da Informação.
