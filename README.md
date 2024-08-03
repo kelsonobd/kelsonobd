@@ -1,10 +1,12 @@
-<h2>Bem vindo (a) ao meu Github!</h2>
+<h2>Olá visitante! Seja bem vindo (a) ao meu Github!</h2>
 <h1>Sou o Kelson Oliveira</h1>
   
-  - 👨🏻‍💻 <b>Desenvolvedor Frontend 
-  - 👨‍🎓 Formando de Gestão de Tecnologia da Informação.
-  - 🤓 Estudando Javascript & React.</b>
+<p>Me chamo Kelson. Sou um estudante de desenvolvimento front-end, atualmente em processo de transição de carreira da área de suporte para a área de desenvolvimento front-end. Recentemente, me formei em Gestão de Tecnologia da Informação.
 
+Tenho conhecimento em HTML, CSS e JavaScript, e atualmente estou me aprofundando em ReactJS. Estou em busca da minha primeira oportunidade profissional na área de desenvolvimento.
+
+Sinta-se à vontade para explorar alguns dos meus projetos, que realizei tanto de forma autônoma quanto como parte dos cursos que tenho feito durante meu processo de aprendizado.
+Ï</p>
 
 
 <div align="center">
