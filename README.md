@@ -9,17 +9,7 @@ Sinta-se à vontade para explorar alguns dos meus projetos, que realizei tanto d
 Ï</p>
 
 
-<div align="center">
-<img height="175rem" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"/>
-<img height="175rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelsonobd&layout=compact&langs_count=16&theme=dark"/>
-</div>
 
-<div align="center" style="display: inline_inblock"><br>
-<img align="center" alt="Kelson-html" height="60" width"60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
-<img align="center" alt="Kelson-css" height="60" width"60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
-<img align="center" alt="Kelson-js" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img align="center" alt="Kelson-github" height="80" width"80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"/>
-</div>
 
 ##
 
