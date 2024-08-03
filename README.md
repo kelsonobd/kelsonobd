@@ -1,6 +1,6 @@
 <h1>Olá visitante! Seja bem vindo (a) ao meu Github!</h1>
   
-<p>Me chamo Kelson Oliveira. Sou um estudante de desenvolvimento front-end, atualmente em processo de transição de carreira da área de suporte para a área de desenvolvimento front-end. Recentemente, me formei em Gestão de Tecnologia da Informação.
+<p>Me chamo Kelson Oliveira. Sou estudante de desenvolvimento front-end, atualmente em processo de transição de carreira da área de suporte para a área de desenvolvimento front-end. Recentemente, me formei em Gestão de Tecnologia da Informação.
 
 Tenho conhecimento em HTML, CSS, JavaScript, Git e atualmente estou me aprofundando em ReactJS. Estou em busca da minha primeira oportunidade profissional na área de desenvolvimento.
 
@@ -30,7 +30,7 @@ _<h1>Hello visitor! Welcome to my GitHub!</h1>_
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kelson-oliveira-94605a211/ target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="klson.dev"  target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <a href="https://klson.dev/"  target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
   <a href="https://www.instagram.com/kelson.dev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
